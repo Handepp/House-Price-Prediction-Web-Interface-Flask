@@ -1,3 +1,16 @@
+Ujian Praktek AI Domain Deployment
+
+Rancang Desain Interface Sebagai Sistem Prediksi Harga Rumah
+Ewako 5 :
+1. Reyhan Devara
+2. Desty Nurul Anitsa
+3. Diva Hana Shabira
+4. Putri Ardianti
+5. Nabila Rasya Putri Amani
+6. Ryana Purwaningrum
+
+Orbit Future Academy
+
 ===================
 [Packages List]
 ===================
